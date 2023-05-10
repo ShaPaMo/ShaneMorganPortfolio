@@ -314,12 +314,12 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.25);
+		background: rgba(220, 220, 220, 0.25);
 		border-color: #eeeeee;
 	}
 
 	hr {
-		border-bottom-color: #ffffff;
+		border-bottom-color: #eeeeee;
 	}
 
 /* Row */
